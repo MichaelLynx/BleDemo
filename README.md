@@ -5,6 +5,8 @@
 # 一、原理
 
 > 更详细信息可以查看官方蓝牙框架文档：[《Core Bluetooth Programming Guide》](https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html#//apple_ref/doc/uid/TP40013257-CH1-SW1)
+>
+> 文章链接：[蓝牙连接（swift版）](https://michaellynx.github.io/bluetooth-for-swift/)
 
 
 
