@@ -2,7 +2,7 @@
 //  BleHelper.swift
 //  BleDemo
 //
-//  Created by Zayata on 24/03/2020.
+//  Created by Lynx on 24/03/2020.
 //  Copyright © 2020 Lynx. All rights reserved.
 //
 

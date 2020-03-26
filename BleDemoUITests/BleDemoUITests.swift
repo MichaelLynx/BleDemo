@@ -2,7 +2,7 @@
 //  BleDemoUITests.swift
 //  BleDemoUITests
 //
-//  Created by Zayata on 23/03/2020.
+//  Created by Lynx on 23/03/2020.
 //  Copyright © 2020 Lynx. All rights reserved.
 //
 
